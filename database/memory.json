@@ -1,0 +1,327 @@
+{
+    "profile": {
+        "name": "",
+        "language": "bangla",
+        "city": "",
+        "preferences": {},
+        "favorite_apps": [],
+        "projects": []
+    },
+    "memory": {
+        "assistant": {
+            "id": "3e35b8d5-edf2-42e2-9770-8641a270b691",
+            "category": "general",
+            "key": "assistant",
+            "value": "AYESHA",
+            "importance": 1,
+            "created": 1784385557.6913075,
+            "updated": 1784385557.6913078,
+            "access_count": 0,
+            "tags": [],
+            "metadata": {}
+        },
+        "decision_387d8e60-b98b-4b4b-8f72-b29a759f7879": {
+            "id": "90603500-406e-4a5d-8e6f-1161035eba04",
+            "category": "decision",
+            "key": "decision_387d8e60-b98b-4b4b-8f72-b29a759f7879",
+            "value": {
+                "intent": "youtube",
+                "goal": "Open YouTube",
+                "confidence": 0.95,
+                "actions": [
+                    {
+                        "action": "youtube",
+                        "query": "Open YouTube and search Python AI"
+                    }
+                ],
+                "reasoning": [
+                    "User requested YouTube."
+                ]
+            },
+            "importance": 2,
+            "created": 1784300727.2925732,
+            "updated": 1784300727.2925737,
+            "access_count": 0,
+            "tags": [],
+            "metadata": {}
+        },
+        "decision_bcaf3f34-5dc2-43c0-b4ef-5cd06f2ad0da": {
+            "id": "4de6e09a-7894-4f49-8959-e1084e386d48",
+            "category": "decision",
+            "key": "decision_bcaf3f34-5dc2-43c0-b4ef-5cd06f2ad0da",
+            "value": {
+                "intent": "chrome",
+                "goal": "Open Chrome",
+                "confidence": 0.95,
+                "actions": [
+                    {
+                        "action": "chrome"
+                    }
+                ],
+                "reasoning": [
+                    "User requested Chrome."
+                ]
+            },
+            "importance": 2,
+            "created": 1784301016.0801337,
+            "updated": 1784301016.0801344,
+            "access_count": 0,
+            "tags": [],
+            "metadata": {}
+        },
+        "decision_96b83b3f-4634-4cb9-9968-92e5274ce1cd": {
+            "id": "9cb83d53-1a6e-4c0e-b48b-3bc160ab4f45",
+            "category": "decision",
+            "key": "decision_96b83b3f-4634-4cb9-9968-92e5274ce1cd",
+            "value": {
+                "intent": "chat"
+            },
+            "importance": 1,
+            "created": 1784314556.2729204,
+            "updated": 1784314556.2729206,
+            "access_count": 0,
+            "tags": [],
+            "metadata": {}
+        },
+        "decision_b64e7591-8db3-44f1-8258-7ba688db7dcb": {
+            "id": "9993924f-ba93-416d-8592-499fce8a4e60",
+            "category": "decision",
+            "key": "decision_b64e7591-8db3-44f1-8258-7ba688db7dcb",
+            "value": {
+                "intent": "open_browser"
+            },
+            "importance": 1,
+            "created": 1784314580.4753098,
+            "updated": 1784314580.4753098,
+            "access_count": 0,
+            "tags": [],
+            "metadata": {}
+        },
+        "decision_5bdcc2a3-f077-4124-b8da-5c88b5608ba6": {
+            "id": "10f5486f-d9fa-4ff7-a5e8-58f9baf3c599",
+            "category": "decision",
+            "key": "decision_5bdcc2a3-f077-4124-b8da-5c88b5608ba6",
+            "value": {
+                "intent": "chat"
+            },
+            "importance": 1,
+            "created": 1784314684.131652,
+            "updated": 1784314684.1316526,
+            "access_count": 0,
+            "tags": [],
+            "metadata": {}
+        },
+        "decision_b51253c9-9a07-4b2f-ab64-c2772f208c65": {
+            "id": "36b2c4e8-861f-4a60-b677-113de4e50d38",
+            "category": "decision",
+            "key": "decision_b51253c9-9a07-4b2f-ab64-c2772f208c65",
+            "value": {
+                "intent": "open_browser"
+            },
+            "importance": 1,
+            "created": 1784314708.2836533,
+            "updated": 1784314708.2836537,
+            "access_count": 0,
+            "tags": [],
+            "metadata": {}
+        },
+        "decision_b5734f04-b69b-4de1-b19f-5814ac873063": {
+            "id": "72888bfe-a4e9-4526-a3b5-b51f59e40608",
+            "category": "decision",
+            "key": "decision_b5734f04-b69b-4de1-b19f-5814ac873063",
+            "value": {
+                "intent": "chat"
+            },
+            "importance": 1,
+            "created": 1784315045.3200467,
+            "updated": 1784315045.320047,
+            "access_count": 0,
+            "tags": [],
+            "metadata": {}
+        },
+        "decision_aba9c65c-97b0-48e7-aae6-caf5e83d0cc5": {
+            "id": "5fd904a6-2dc7-4bd5-9fef-d52349b5a760",
+            "category": "decision",
+            "key": "decision_aba9c65c-97b0-48e7-aae6-caf5e83d0cc5",
+            "value": {
+                "intent": "open_browser"
+            },
+            "importance": 1,
+            "created": 1784315719.6768208,
+            "updated": 1784315719.676821,
+            "access_count": 0,
+            "tags": [],
+            "metadata": {}
+        },
+        "decision_c3ea2f6d-9e0a-45ec-90f6-c46c92d218a4": {
+            "id": "9761ba9b-c1a5-4f09-8715-21cbff1c65ce",
+            "category": "decision",
+            "key": "decision_c3ea2f6d-9e0a-45ec-90f6-c46c92d218a4",
+            "value": {
+                "intent": "chat"
+            },
+            "importance": 1,
+            "created": 1784315879.9176724,
+            "updated": 1784315879.9176726,
+            "access_count": 0,
+            "tags": [],
+            "metadata": {}
+        },
+        "decision_57b8cbbd-7a28-401b-9b4c-9c0fe51f3522": {
+            "id": "f1c792ac-f319-4869-be16-a9dbe5c29600",
+            "category": "decision",
+            "key": "decision_57b8cbbd-7a28-401b-9b4c-9c0fe51f3522",
+            "value": {
+                "intent": "chat"
+            },
+            "importance": 1,
+            "created": 1784315891.2050421,
+            "updated": 1784315891.2050424,
+            "access_count": 0,
+            "tags": [],
+            "metadata": {}
+        }
+    },
+    "conversation": [
+        {
+            "role": "user",
+            "message": "Hello",
+            "timestamp": 1784300235.6462321
+        },
+        {
+            "role": "user",
+            "message": "Open Chrome",
+            "timestamp": 1784300390.7582166
+        },
+        {
+            "role": "assistant",
+            "message": "Opening Chrome",
+            "timestamp": 1784300390.7589643
+        },
+        {
+            "role": "user",
+            "message": "Hello",
+            "timestamp": 1784350887.6960142
+        },
+        {
+            "role": "user",
+            "message": "Open Chrome",
+            "timestamp": 1784350887.855169
+        },
+        {
+            "role": "assistant",
+            "message": "Opening Chrome",
+            "timestamp": 1784350887.8563294
+        },
+        {
+            "role": "user",
+            "message": "Hello",
+            "timestamp": 1784385557.6941428
+        },
+        {
+            "role": "user",
+            "message": "Open Chrome",
+            "timestamp": 1784385595.8337672
+        },
+        {
+            "role": "assistant",
+            "message": "Opening Chrome",
+            "timestamp": 1784385595.8369226
+        },
+        {
+            "role": "user",
+            "message": "youtube open koro",
+            "timestamp": 1784391028.4035652
+        },
+        {
+            "role": "assistant",
+            "message": "আমি বুঝতে পেরেছি: youtube open koro",
+            "timestamp": 1784391028.4069247
+        },
+        {
+            "role": "user",
+            "message": "hu",
+            "timestamp": 1784391531.335634
+        },
+        {
+            "role": "user",
+            "message": "active",
+            "timestamp": 1784391541.1141303
+        },
+        {
+            "role": "user",
+            "message": "youtube open koro",
+            "timestamp": 1784395325.9640565
+        },
+        {
+            "role": "assistant",
+            "message": "আমি বুঝতে পেরেছি: youtube open koro",
+            "timestamp": 1784395325.9661314
+        },
+        {
+            "role": "user",
+            "message": "youtube open koro",
+            "timestamp": 1784395393.2598152
+        },
+        {
+            "role": "assistant",
+            "message": "আমি বুঝতে পেরেছি: youtube open koro",
+            "timestamp": 1784395393.2622776
+        },
+        {
+            "role": "user",
+            "message": "youtube open koro",
+            "timestamp": 1784395470.0390615
+        },
+        {
+            "role": "assistant",
+            "message": "আমি বুঝতে পেরেছি: youtube open koro",
+            "timestamp": 1784395470.0416148
+        }
+    ],
+    "tasks": [],
+    "goals": [
+        {
+            "id": "a3336226-cb59-435d-9cfe-e3c5c33c21ab",
+            "title": "Finish AI",
+            "status": "pending",
+            "created": 1784300235.6479802,
+            "completed": null
+        },
+        {
+            "id": "4cc48a2a-f340-4fb4-aadf-7c54e629c3d5",
+            "title": "Build AYESHA",
+            "status": "pending",
+            "created": 1784300590.1413083,
+            "completed": null
+        },
+        {
+            "id": "cc074173-fc29-415e-9681-5dca67118234",
+            "title": "Finish AI",
+            "status": "pending",
+            "created": 1784350887.6971428,
+            "completed": null
+        },
+        {
+            "id": "5ec9ff77-712d-4b2f-974a-ee813b1141af",
+            "title": "Build AYESHA",
+            "status": "pending",
+            "created": 1784350888.0091228,
+            "completed": null
+        },
+        {
+            "id": "558e773c-606e-40f0-a430-b2836e82f06e",
+            "title": "Finish AI",
+            "status": "pending",
+            "created": 1784385557.6952965,
+            "completed": null
+        },
+        {
+            "id": "24f2285d-a416-48a6-ad9a-cfd2dd76d314",
+            "title": "Build AYESHA",
+            "status": "pending",
+            "created": 1784385626.8972833,
+            "completed": null
+        }
+    ]
+}

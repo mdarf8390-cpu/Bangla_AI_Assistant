@@ -1,0 +1,31 @@
+{
+    "youtube": {
+        "type": "website",
+        "url": "https://youtube.com",
+        "module": "browser"
+    },
+
+    "google": {
+        "type": "website",
+        "url": "https://google.com",
+        "module": "browser"
+    },
+
+    "facebook": {
+        "type": "website",
+        "url": "https://facebook.com",
+        "module": "browser"
+    },
+
+    "instagram": {
+        "type": "website",
+        "url": "https://instagram.com",
+        "module": "browser"
+    },
+
+    "tiktok": {
+        "type": "website",
+        "url": "https://tiktok.com",
+        "module": "browser"
+    }
+}

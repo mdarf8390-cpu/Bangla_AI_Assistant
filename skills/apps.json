@@ -1,0 +1,29 @@
+{
+    "chrome": {
+        "module": "apps"
+    },
+
+    "edge": {
+        "module": "apps"
+    },
+
+    "spotify": {
+        "module": "apps"
+    },
+
+    "discord": {
+        "module": "apps"
+    },
+
+    "steam": {
+        "module": "apps"
+    },
+
+    "vscode": {
+        "module": "apps"
+    },
+
+    "notepad": {
+        "module": "apps"
+    }
+}

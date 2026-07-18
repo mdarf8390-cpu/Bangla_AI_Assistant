@@ -1,0 +1,48 @@
+{
+    "character_name": "Ayesha",
+    "character_size": 200,
+    "character_opacity": 0.8,
+    "auto_start": false,
+    "voice_enabled": true,
+    "theme": "dark",
+    "language": "bengali",
+    "media_detection": true,
+    "character_position": "bottom-right",
+    "version": "1.0.0",
+    "created": "2026-07-18",
+    "creator": "Arafat (Pipraa)",
+    "app_name": "Ayesha-Pipraa Desktop Application",
+    "character_emotions": {
+        "happy": true,
+        "sad": true,
+        "excited": true,
+        "thinking": true,
+        "confused": true,
+        "neutral": true
+    },
+    "features": {
+        "floating_avatar": true,
+        "3d_character": true,
+        "media_detection": true,
+        "character_memory": true,
+        "feature_requests": true,
+        "voice_output": true,
+        "bangla_support": true
+    },
+    "controls": {
+        "show_settings": true,
+        "hide_character": true,
+        "show_character": true,
+        "open_chat": true,
+        "check_media": true,
+        "exit_app": true
+    },
+    "ui": {
+        "window_width": 900,
+        "window_height": 600,
+        "header_height": 80,
+        "font_size": 12,
+        "button_height": 40,
+        "padding": 15
+    }
+}

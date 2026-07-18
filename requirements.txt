@@ -1,0 +1,16 @@
+customtkinter
+ollama
+pyttsx3
+SpeechRecognition
+pyaudio
+opencv-python
+pillow
+pygame
+pyautogui
+keyboard
+mouse
+psutil
+python-dotenv
+rapidfuzz
+edge-tts
+requests
